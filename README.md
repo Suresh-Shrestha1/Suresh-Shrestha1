@@ -85,27 +85,9 @@
 ---
 
 ## 📫 Let's Connect
-<a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/suresh-shrestha-950151283/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/>
-</a>
-<a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
-</a>
-<a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-</a>
-<a href="https://stackoverflow.com/users/youruserid" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow"/>
-</a>
-<a href="https://youtube.com/c/yourchannel" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" alt="YouTube"/>
-</a>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/suresh-shrestha-950151283/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>](https://www.facebook.com/suresh.shrestha.489575)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>](https://github.com/Suresh-Shrestha1)
 
 ---
 
