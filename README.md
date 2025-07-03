@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/suresh440dev/Suresh_shrestha/blob/main/banner.png" alt="Banner" />
+  <img src="https://github.com/Suresh-Shrestha1/Suresh_shrestha/blob/main/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">
@@ -14,17 +14,17 @@
 
 <p align="left">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=suresh440dev&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   
   <!-- Followers Badge -->
-  <a href="https://github.com/suresh440dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/suresh440dev?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <a href="https://github.com/Suresh-Shrestha1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suresh440dev&margin-w=15&margin-h=15" alt="suresh440dev trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=suresh440dev&margin-w=15&margin-h=15" alt="Suresh-Shrestha1 trophies" />
   </a>
 </p>
 
@@ -95,9 +95,9 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=suresh440dev&show_icons=true" alt="Suresh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh440dev&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact" alt="Top Languages" />
 </p>
 
 ---
