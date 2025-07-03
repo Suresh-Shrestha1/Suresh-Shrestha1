@@ -66,7 +66,7 @@
 
 ## 📌 Portfolio & Projects
 
-🔗 **Portfolio Website**: [www.sujan.com](http://www.sujan.com)
+🔗 **Portfolio Website**: [www.sureshshrestha.com](https://www.sureshshrestha12.com.np)
 
 📁 Coming soon:
 - Personal projects
@@ -77,7 +77,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced JavaScript & PHP
+- JavaScript & PHP
 - Responsive web design
 - Database design & normalization
 - Version control using Git
@@ -85,10 +85,10 @@
 ---
 
 ## 📫 Let's Connect
-- 📍 Kathmandu, Nepal
-- 🌐 Portfolio: [www.sujan.com](http://www.sujan.com)
-- 📧 Email: *[your-email@example.com]* _(replace this)_
-- 💼 LinkedIn: *[your-linkedin]* _(optional)_
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook"/>](https://twitter.com/yourusername)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"/>](https://www.linkedin.com/in/suresh-shrestha-950151283/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>](https://github.com/yourusername)
+
 
 ---
 
