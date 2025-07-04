@@ -1,0 +1,30 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour (adjust as needed)
+  workflow_dispatch:
+
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Download WakaTime stats badge
+      run: |
+        curl -o wakatime.svg https://wakatime.com/share/@your-username/your-project/stats.svg
+
+    - name: Commit and push updated badge
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add wakatime.svg
+        git commit -m "Update WakaTime stats badge" || echo "No changes to commit"
+        git push
+      env:
+        # Make sure you set this secret in your repo settings
+        # Go to Settings > Secrets and variables > Actions > New repository secret
+        # Name it GH_TOKEN or something else and put a valid PAT with repo permissions
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
