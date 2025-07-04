@@ -127,10 +127,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
   <br>
-  ## ⏱️ My WakaTime Stats
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh-Shrestha1" />
-
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=9e99b0d1-914e-4812-acb4-67a6c4a64969" />
 </p>
 
 ---
