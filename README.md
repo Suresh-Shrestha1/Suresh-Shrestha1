@@ -1,6 +1,6 @@
-<p align ="center">
+<p align="center">
   <a href="https://github.com/Suresh-Shrestha1" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-@Suresh--Shrestha-181717?style=flat-square&logo=GitHub&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/-@Suresh--Shrestha-181717?style=flat-square&logo=GitHub&logoColor=white" />
   </a>
   <a href="https://github.com/Suresh-Shrestha1" target="_blank">
     <img alt="GitHub Join Date" src="https://img.shields.io/badge/GitHub%20Joined-July%202022-181717?style=flat-square&logo=github&logoColor=white" />
@@ -8,136 +8,135 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> I'm Suresh Shrestha
 </h1>
-<!-- <h3 align="center">💻 Aspiring Web Developer | 🎓 Computer Science (BCA) Student | 🇳🇵 From Nepal</h3> -->
-<h2 align="center">
-  💻 Computer Science (BCA) Student | 🇳🇵 From Nepal
-</h2>
+
+<h3 align="center">💻 Computer Science (BCA) Student | 🇳🇵 From Nepal</h3>
+
 <p align="center">
-  <img src="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/blob/main/code.gif">
+  <img src="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/blob/main/code.gif" width="100%" />
 </p>
 
 ---
-
 
 ## 👨‍💻 About Me
 
 🎓 I'm a Computer Science (Bachelor in Computer Application) student from Lalitpur, Nepal, with a strong interest in web development, databases, and visual design. As a fresh enthusiast in tech, I'm constantly learning and building projects to strengthen my skills.
 
-- 🌍 I'm based in Nepal.  
-- 🖥️ See my portfolio at [Suresh Shrestha](https://www.sureshshrestha12.com.np)  
-- ✉️ You can contact me at [ss2531958@gmail.com](mailto:ss2531958@gmail.com) 
-- 🧠 I'm learning Web Development
-<!-- - 🚀 I'm currently working on [Company name](http://website) -->  
+- 🌍 Based in: Nepal  
+- 🖥️ Portfolio: [sureshshrestha12.com.np](https://www.sureshshrestha12.com.np)  
+- 📫 Email: [ss2531958@gmail.com](mailto:ss2531958@gmail.com)  
+- 🌱 Currently Learning: JavaScript, PHP, Git, MySQL  
 
 ---
 
-## 🛠️ Technologies & Tools
-<p>
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"  title="CSS3"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"  title="JavaScript"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"  title="C"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"  title="PHP"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"  title="SQL"/><br>
+## 🌱 Currently Learning
 
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="50" alt="Word"  title="MS-Word"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="50" alt="Excel"  title="MS-Excel"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" height="50" alt="Access"  title="MS-Access"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="50" alt="PowerPoint"  title="MS-PowerPoint"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="Photoshop"  title="Photoshop"/>
+- JavaScript & PHP  
+- Responsive Web Design  
+- Database Design & Normalization  
+- Version Control with Git
+
+  ---
+  
+## 🛠️ Skills & Tools
+
+### Languages:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />&nbsp;&nbsp;
 </p>
 
+### Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="45" title="MS Word" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="45" title="MS Excel" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" height="45" title="MS Access" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="45" title="MS PowerPoint" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" title="Photoshop" />&nbsp;&nbsp;
+</p>
 
 ---
 
 ## 📌 Portfolio & Projects
 
-🔗 **Portfolio Website**: [www.sureshshrestha.com](https://www.sureshshrestha12.com.np)
+🔗 **Portfolio**: [www.sureshshrestha12.com.np](https://www.sureshshrestha12.com.np)
 
-📁 Coming soon:
-- Personal projects
-- Coursework applications
-- Design samples using Photoshop
-- Web development mini-projects
-
----
-
-## 🌱 Currently Learning
-- JavaScript & PHP
-- Responsive web design
-- Database design & normalization
-- Version control using Git
+📁 **Coming Soon**:
+- Personal Projects  
+- Coursework Applications  
+- Design Samples 
+- Web Development Mini-Projects  
 
 ---
 
-## 📘 Highlighted Project: 
+## 📘 Highlighted Project
 
-<a href="https://github.com/Suresh-Shrestha1/C-Programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff" alt="C-Programming" />
-</a>
+[![C Programming](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/C-Programming)
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh1"  alt="Wakatime"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"/>](https://www.linkedin.com/in/suresh-shrestha-950151283/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook"/>](https://www.facebook.com/suresh.shrestha.489575)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>](https://github.com/Suresh-Shrestha1)&nbsp;&nbsp;&nbsp;&nbsp;
-
----
-
-<p align="left">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  
-  <!-- Followers Badge -->
-  <a href="https://github.com/Suresh-Shrestha1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a
-    <a href="https://github.com/dereknguyen269?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
-  </a>
-    <a href="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1" target="_blank">
-  <img alt="Profile updated" src="https://img.shields.io/github/last-commit/Suresh-Shrestha1/Suresh-Shrestha1?label=Profile%20Updated&style=flat-square">
-</a>
-
-  
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Suresh-Shrestha1)
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C480%20hrs%201%20min-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
-</p>
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&margin-w=15&margin-h=15" alt="Suresh-Shrestha1 trophies" />
-  </a>
-</p>
-
----
-
-
-## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true" alt = "Top Languages"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=9e99b0d1-914e-4812-acb4-67a6c4a64969" />
+  <a href="https://www.linkedin.com/in/suresh-shrestha-950151283/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" title="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/suresh.shrestha.489575">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="45" title="Facebook" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Suresh-Shrestha1">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" />
+  </a>
+</p>
+
+
+---
+
+## 📈 GitHub Profile Insights
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Suresh-Shrestha1/Suresh-Shrestha1?label=Profile%20Updated&style=flat-square" />
+  <a href="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/stargazers">
+    <img src="https://img.shields.io/github/stars/Suresh-Shrestha1/Suresh-Shrestha1?style=flat-square&label=Stars" alt="GitHub Stars" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=flat-square" />
+<!--   <img src="https://img.shields.io/badge/Code%20Time-4,480%20hrs%201%20min-blue" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-7.8%20million-blue" /> -->
 </p>
 
 ---
+
 > “Learning to write programs stretches your mind and helps you think better.” – Bill Gates
 
+---
+
 <p align="center">
-  Made with ❤️ by Suresh Shrestha<br>
-  Reference from Sarun Shakya(https://github.com/Sarun-shakya)
+  Made with ❤️ by Suresh Shrestha  
+  <br />
+  Reference: <a href="https://github.com/Sarun-shakya">Sarun Shakya</a>
 </p>
