@@ -84,17 +84,17 @@
 ## 📊 GitHub Stats & Trophies
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true&cache_seconds=0" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&cache_seconds=0" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh1"  alt="Wakatime"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh1&cache_seconds=0"  alt="Wakatime"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&show_icons=true&cache_seconds=0&t=random123&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
