@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suresh440dev&margin-w=15&margin-h=15" alt="Suresh-Shrestha1 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&margin-w=15&margin-h=15" alt="Suresh-Shrestha1 trophies" />
   </a>
 </p>
 
@@ -45,20 +45,20 @@
 ## 🛠️ Technologies & Tools
 <p>
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"  title="CSS3"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"  title="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"  title="C"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"  title="PHP"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"  title="SQL"/><br>
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="Photoshop"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="50" alt="Word"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="50" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" height="50" alt="Access"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="50" alt="PowerPoint"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" height="50" alt="Word"  title="MS-Word"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="50" alt="Excel"  title="MS-Excel"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" height="50" alt="Access"  title="MS-Access"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="50" alt="PowerPoint"  title="MS-PowerPoint"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="Photoshop"  title="Photoshop"/>
 </p>
 
 
@@ -85,18 +85,19 @@
 ---
 
 ## 📫 Let's Connect
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>](https://www.linkedin.com/in/suresh-shrestha-950151283/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>](https://www.facebook.com/suresh.shrestha.489575)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>](https://github.com/Suresh-Shrestha1)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"/>](https://www.linkedin.com/in/suresh-shrestha-950151283/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook"/>](https://www.facebook.com/suresh.shrestha.489575)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>](https://github.com/Suresh-Shrestha1)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact" width="418" height="195" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
 </p>
 
 ---
