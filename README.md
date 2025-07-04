@@ -1,34 +1,17 @@
-<p align="center">
-  <img src="https://github.com/Suresh-Shrestha1/Suresh_shrestha/blob/main/banner.png" alt="Banner" />
-</p>
+<a href="https://github.com/Suresh-Shrestha1" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/-@Suresh--Shrestha-181717?style=flat-square&logo=GitHub&logoColor=white">
+</a>
 
 <h1 align="center">
-  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
 </h1>
-
+<!-- <h3 align="center">💻 Aspiring Web Developer | 🎓 Computer Science (BCA) Student | 🇳🇵 From Nepal</h3> -->
 <h2 align="center">
-  💻 A Computer Science Student.
+  💻 Computer Science (BCA) Student | 🇳🇵 From Nepal
 </h2>
 
 ---
 
-<p align="left">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  
-  <!-- Followers Badge -->
-  <a href="https://github.com/Suresh-Shrestha1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&margin-w=15&margin-h=15" alt="Suresh-Shrestha1 trophies" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -84,12 +67,53 @@
 
 ---
 
+## 📘 Highlighted Project: 
+
+<a href="https://github.com/Suresh-Shrestha1/C-Programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff" alt="C-Programming" />
+</a>
+
+---
+
 ## 📫 Let's Connect
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn"/>](https://www.linkedin.com/in/suresh-shrestha-950151283/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" alt="Facebook"/>](https://www.facebook.com/suresh.shrestha.489575)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>](https://github.com/Suresh-Shrestha1)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
+
+<p align="left">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  
+  <!-- Followers Badge -->
+  <a href="https://github.com/Suresh-Shrestha1?tab=followers">
+    <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a
+    <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+  </a>
+    <a href="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1" target="_blank">
+  <img alt="Profile updated" src="https://img.shields.io/github/last-commit/Suresh-Shrestha1/Suresh-Shrestha1?label=Profile%20Updated&style=flat-square">
+</a>
+
+  
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Suresh-Shrestha1)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C480%20hrs%201%20min-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&margin-w=15&margin-h=15" alt="Suresh-Shrestha1 trophies" />
+  </a>
+</p>
+
+---
+
 
 ## 📊 GitHub Stats
 
