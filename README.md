@@ -123,11 +123,14 @@
 ## 📊 GitHub Stats
 
 <p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact" width="418" height="195" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true&" alt = "Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true" alt = "Top Languages"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
+  <br>
+  ## ⏱️ My WakaTime Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh-Shrestha1" />
+
 </p>
 
 ---
