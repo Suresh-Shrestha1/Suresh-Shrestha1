@@ -1,6 +1,11 @@
-<a href="https://github.com/Suresh-Shrestha1" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/-@Suresh--Shrestha-181717?style=flat-square&logo=GitHub&logoColor=white">
-</a>
+<p align ="center">
+  <a href="https://github.com/Suresh-Shrestha1" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-@Suresh--Shrestha-181717?style=flat-square&logo=GitHub&logoColor=white">
+  </a>
+  <a href="https://github.com/Suresh-Shrestha1" target="_blank">
+    <img alt="GitHub Join Date" src="https://img.shields.io/badge/GitHub%20Joined-July%202022-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
@@ -120,6 +125,7 @@
 <p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact" width="418" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true&" alt = "Top Languages"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true" alt="Suresh's GitHub stats" />
 </p>
