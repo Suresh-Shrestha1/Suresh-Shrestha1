@@ -6,7 +6,9 @@
     <img alt="GitHub Join Date" src="https://img.shields.io/badge/GitHub%20Joined-July%202022-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
 </h1>
@@ -106,8 +108,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Suresh-Shrestha1)
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C480%20hrs%201%20min-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.8%20million%20lines%20of%20code-blue)
-
 </p>
+
+
 
 ## 🏆 GitHub Trophies
 
