@@ -6,9 +6,7 @@
     <img alt="GitHub Join Date" src="https://img.shields.io/badge/GitHub%20Joined-July%202022-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/code.gif">
-</p>
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
 </h1>
@@ -16,6 +14,9 @@
 <h2 align="center">
   💻 Computer Science (BCA) Student | 🇳🇵 From Nepal
 </h2>
+<p align="center">
+  <img src="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/blob/main/code.gif">
+</p>
 
 ---
 
