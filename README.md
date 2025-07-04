@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/code.gif">
 </p>
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle"/> I'm Suresh Shrestha
