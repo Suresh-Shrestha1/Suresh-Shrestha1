@@ -43,13 +43,13 @@
 
 ### Languages:
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />&nbsp;&nbsp;
 </p>
 
 ### Tools:
@@ -58,7 +58,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="45" title="MS Excel" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/microsoft-access-2019.png" height="45" title="MS Access" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="45" title="MS PowerPoint" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" title="Photoshop" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Photoshop" />&nbsp;&nbsp;
 </p>
 
 ---
@@ -103,13 +103,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/suresh-shrestha-950151283/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" title="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/suresh.shrestha.489575">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="45" title="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" title="Facebook" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Suresh-Shrestha1">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
   </a>
 </p>
 
@@ -120,7 +120,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" />
-  {<img src="https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg" alt="wakatime" />}[https://wakatime.com/@9e99b0d1-914e-4812-acb4-67a6c4a64969]
+  <img src="https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg" alt="wakatime" />
   <img src="https://img.shields.io/github/last-commit/Suresh-Shrestha1/Suresh-Shrestha1?label=Profile%20Updated&style=flat-square" />
   <a href="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/stargazers">
     <img src="https://img.shields.io/github/stars/Suresh-Shrestha1/Suresh-Shrestha1?style=flat-square&label=Stars" alt="GitHub Stars" />
