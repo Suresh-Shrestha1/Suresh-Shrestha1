@@ -121,7 +121,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20views&color=0e75b6&style=flat-square" />
   <img src="https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg" alt="wakatime" />
-  <img src="code-time.svg" alt="Code Time Badge" />
+  <img src="Code-time.svg" alt="Code Time Badge" />
   <img src="https://img.shields.io/github/last-commit/Suresh-Shrestha1/Suresh-Shrestha1?label=Profile%20Updated&style=flat-square" />
   <a href="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/stargazers">
     <img src="https://img.shields.io/github/stars/Suresh-Shrestha1/Suresh-Shrestha1?style=flat-square&label=Stars" alt="GitHub Stars" />
