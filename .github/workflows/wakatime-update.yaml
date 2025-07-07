@@ -3,7 +3,7 @@ name: Save WakaTime Badge Snapshot
 on:
   schedule:
     - cron: '0 * * * *'  # every hour
-  workflow_dispatch:      # manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,14 +20,11 @@ jobs:
         run: |
           curl -o Code-time.svg https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg
 
-      - name: List files to check
-        run: ls -la
-
       - name: Commit and push badge
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add wakatime.svg
+          git add code-time.svg
           git commit -m "Update WakaTime badge snapshot" || echo "No changes to commit"
           git push
         env:
