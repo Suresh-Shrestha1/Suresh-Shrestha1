@@ -2,8 +2,8 @@ name: Save WakaTime Badge Snapshot
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # Allows manual run from GitHub UI
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:      # manual trigger
 
 permissions:
   contents: write
@@ -19,6 +19,9 @@ jobs:
       - name: Download WakaTime badge image
         run: |
           curl -o wakatime.svg https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg
+
+      - name: List files to check
+        run: ls -la
 
       - name: Commit and push badge
         run: |
