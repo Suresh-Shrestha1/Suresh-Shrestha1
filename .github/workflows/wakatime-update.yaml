@@ -2,7 +2,7 @@ name: Save WakaTime Badge Snapshot
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: '0 0 * * *'  # every hour
   workflow_dispatch:
 
 permissions:
