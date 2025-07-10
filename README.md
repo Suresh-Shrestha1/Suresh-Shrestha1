@@ -3,7 +3,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-@Suresh--Shrestha-181717?style=flat-square&logo=GitHub&logoColor=white" />
   </a>
   <a href="https://github.com/Suresh-Shrestha1" target="_blank">
-    <img alt="GitHub Join Date" src="https://img.shields.io/badge/GitHub%20Joined-July%202022-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="GitHub Join Date" src="https://img.shields.io/badge/GitHub%20Joined-March%202024-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
