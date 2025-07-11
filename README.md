@@ -80,7 +80,7 @@
 [![C Programming](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/C-Programming)
 [![Advance-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Advance-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/Advance-Calculator)
 [![CV-Resume](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=CV-Resume&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/CV-Resume)
-
+[![Simple-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Simple-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/Simple-Calculator)
 
 ---
 
