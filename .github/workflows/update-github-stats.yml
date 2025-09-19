@@ -13,11 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch GitHub stats image
+      - name: Update CA certificates
+        run: sudo apt-get update && sudo apt-get install -y ca-certificates
+        
+      - name: Fetch GitHub stats image (with retries)
         run: |
-          curl -H "Authorization: token ${{ secrets.STATUS }}" \
-          "https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&theme=radical" \
-          -o stats.svg
+          for i in {1..5}; do
+            curl -H "Authorization: token ${{ secrets.STATUS }}" \
+              "https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&theme=radical" \
+              -o stats.svg && break || sleep 10
+          done
 
       - name: Commit and push updated stats image
         run: |
