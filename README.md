@@ -90,9 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true&cache_seconds=0" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&cache_seconds=0" alt="GitHub Stats" />
-  
-  ![GitHub Stats](./stats.svg)
-  
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh1&cache_seconds=0"  alt="Wakatime"/>
 </p>
