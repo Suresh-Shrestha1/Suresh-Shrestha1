@@ -77,27 +77,27 @@
 
 ## 📘 Highlighted Project
 
-[![C Programming](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/C-Programming)
-[![Advance-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Advance-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/Advance-Calculator)
-[![CV-Resume](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=CV-Resume&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/CV-Resume)
-[![Simple-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Simple-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/Simple-Calculator)
+[![C Programming](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/C-Programming)
+[![Advance-Calculator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Advance-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/Advance-Calculator)
+[![CV-Resume](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=CV-Resume&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/CV-Resume)
+[![Simple-Calculator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Simple-Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=ffffff)](https://github.com/Suresh-Shrestha1/Simple-Calculator)
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true&cache_seconds=0" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suresh1&cache_seconds=0"  alt="Wakatime"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Suresh1&layout=compact" alt="Wakatime"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&show_icons=true&cache_seconds=0&t=random123&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Suresh-Shrestha1&theme=flat&no-frame=true&row=2&column=7&margin-w=10&margin-h=10" width="1200" alt="Trophies" />
 </p>
 
 ---
