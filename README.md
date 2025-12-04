@@ -84,17 +84,36 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&count_private=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Suresh1&layout=compact" alt="Wakatime"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suresh-Shrestha1&show_icons=true&theme=default" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Suresh-Shrestha1&theme=default" width="48%" />
 </p>
 
-### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=compact&theme=default" width="40%" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suresh-Shrestha1&theme=github-light&hide_border=true" width="100%" />
+</p>
+
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suresh-Shrestha1&theme=default" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suresh-Shrestha1&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suresh-Shrestha1&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suresh-Shrestha1&theme=default" width="32%" />
+</p>
+
+## 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-trophies.vercel.app/?username=Suresh-Shrestha1&theme=flat&no-frame=true&row=2&column=7&margin-w=10&margin-h=10" width="1200" alt="Trophies" />
