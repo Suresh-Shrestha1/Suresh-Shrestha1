@@ -214,13 +214,13 @@
     <span>&nbsp;Weekly Language &amp; Time Stats</span>
 </h2>
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Suresh1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="40%" alt="Wakatime Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Suresh1&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_color=FF6B6B&langs_count=8&custom_title=📅%20This%20Week%20I%20Spent%20My%20Time%20On" width="50%" alt="Wakatime Stats"/>
 </p>
 
 <!-- Contribution Graph -->
 <h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> 
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" />
   Contribution Graph
 </h2>
 
