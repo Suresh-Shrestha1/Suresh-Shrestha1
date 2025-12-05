@@ -80,11 +80,11 @@
 <summary><b>💻 Languages</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,c,python&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,java,c,&perline=7&theme=dark" />
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>🎨 Frontend</b></summary>
 <br>
 <p align="center">
@@ -92,11 +92,11 @@
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>⚙️ Backend & Database</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb&perline=4&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,mysql&perline=4&theme=dark" />
 </p>
 </details>
 
@@ -104,7 +104,7 @@
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,linux&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6&theme=dark" />
 </p>
 </details>
 
@@ -328,9 +328,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Feel+free+to+connect+with+me!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing" />
 </p>
 
@@ -347,4 +344,8 @@
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top-4ECDC4?style=for-the-badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
