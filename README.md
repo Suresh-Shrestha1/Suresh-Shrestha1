@@ -28,22 +28,27 @@
   <img src="https://github.com/Suresh-Shrestha1/Suresh-Shrestha1/blob/main/code.gif" width="100%" />
 </p>
 
----
-
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 👨‍💻 About Me
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> 
+  About Me
+</h2>
 
 🎓 I'm a Computer Science (Bachelor in Computer Application) student from Lalitpur, Nepal, with a strong interest in web development, databases, and visual design. As a fresh enthusiast in tech, I'm constantly learning and building projects to strengthen my skills.
 
 - 🌍 Based in: Nepal  
 - 🖥️ Portfolio: [sureshshrestha12.com.np](https://www.sureshshrestha12.com.np)  
 - 📫 Email: [ss2531958@gmail.com](mailto:ss2531958@gmail.com)  
-- 🌱 Currently Learning: JavaScript, PHP, Git, MySQL  
+- 🎯 Focus: Web Development & Databases
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Currently Learning Section -->
 <h2>
@@ -60,7 +65,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-  ---
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
   
 <!-- Skills Section -->
 <h2>
@@ -111,8 +119,10 @@
 </p>
 </details>
 
-
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Portfolio Section -->
 <h2>
@@ -149,8 +159,10 @@
   </tr>
 </table>
 
-
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Highlight Project Section -->
 <h2>
@@ -176,7 +188,10 @@
   </a>
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- GitHub Stats Section -->
 <h2>
@@ -193,6 +208,15 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suresh-Shrestha1&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="40%" alt="Top Languages"/>
 </p>
 
+<!-- Weekly Language & Time Stats -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" width="30" alt="Clock"/>
+    <span>&nbsp;Weekly Language &amp; Time Stats</span>
+</h2>
+
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Suresh1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="40%" alt="Wakatime Stats"/>
+</p>
 
 <!-- Contribution Graph -->
 <h2>
@@ -226,11 +250,14 @@
   GitHub Trophies
 </h2>
 
-<p align="left">
-  <img src="https://github-trophies.vercel.app/?username=Suresh-Shrestha1&theme=flat&no-frame=true&row=2&column=7&margin-w=10&margin-h=10" width="1200" alt="Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophies" />
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Connect Section -->
 <h2>
@@ -256,7 +283,10 @@
   </a>
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Profile Insights -->
 <h2>
@@ -266,13 +296,16 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suresh-Shrestha1&label=Profile%20Views&color=FF6B6B&style=for-the-badge" />
-  <img src="https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg" alt="wakatime" />
-  <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=for-the-badge&color=4ECDC4" />
+  <img src="https://wakatime.com/badge/user/9e99b0d1-914e-4812-acb4-67a6c4a64969.svg?style=for-the-badge&color=9B59B6" alt="wakatime" />
+  <img src="https://img.shields.io/github/followers/Suresh-Shrestha1?label=Followers&style=for-the-badge&color=FF8C004" />
   <img src="https://img.shields.io/github/stars/Suresh-Shrestha1?label=Stars&style=for-the-badge&color=FFD700" />
   <img src="https://img.shields.io/github/last-commit/Suresh-Shrestha1/Suresh-Shrestha1?label=Last%20Updated&style=for-the-badge&color=45B7D1" />
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <!-- Random Quote -->
 <h2>
@@ -289,7 +322,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=%22Learning+to+write+programs+stretches+your+mind%22;%22and+helps+you+think+better.%22+%E2%80%93+Bill+Gates" alt="Quote" />
 </p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
