@@ -251,7 +251,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suresh-Shrestha1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&cache_seconds=86400" width="100%" alt="Trophies" />
 </p>
 
 <!-- Animated Divider -->
