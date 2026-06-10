@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suresh%20Shrestha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suresh%20Shrestha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Softwre%Devloper&descAlignY=52&descSize=18" width="100%"/>
 </p> -->
 
 <!-- Animated Header Banner -->
@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Suresh-Shrestha1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Shrestha;Welcome+to+my+GitHub+Profile!;I'm+a+BCA+Student+from+Nepal;Web+Developer+%7C+Tech+Enthusiast;Always+Learning+New+Things!;I'm+a+Passionate+Developer+%F0%9F%92%BB;Building+Amazing+Projects+%F0%9F%9A%80;Let's+Connect+and+Collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Suresh+Shrestha;Welcome+to+my+GitHub+Profile!;I'm+a+BCA+Student+from+Nepal;Software+Developer+%7C+Full+Stack+Developer;Always+Learning+New+Things!;I'm+a+Passionate+Developer+%F0%9F%92%BB;Building+Amazing+Projects+%F0%9F%9A%80;Let's+Connect+and+Collaborate!+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </p>
 
