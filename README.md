@@ -100,11 +100,11 @@
 </p>
 </details>
 
-<details open>
+<details>
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6&theme=dark" />
 </p>
 </details>
 
@@ -171,22 +171,22 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Suresh-Shrestha1/C-Programming">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=C-Programming&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" width="49%" />
+  <a href="https://github.com/Suresh-Shrestha1/Personal-Portfolio">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Personal-Portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" width="49%" />
   </a>
-  <a href="https://github.com/Suresh-Shrestha1/Advance-Calculator">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Advance-Calculator&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" width="49%" />
+  <a href="https://github.com/Suresh-Shrestha1/Simple-Personal-Portfolio">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Simple-Personal-Portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" width="49%" />
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Suresh-Shrestha1/CV-Resume">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=CV-Resume&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" width="49%" />
   </a>
   <a href="https://github.com/Suresh-Shrestha1/Simple-Calculator">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Suresh-Shrestha1&repo=Simple-Calculator&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B" width="49%" />
   </a>
-</p>
+</p> -->
 
 <!-- Animated Divider -->
 <p align="center">
